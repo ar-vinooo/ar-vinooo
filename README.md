@@ -1,8 +1,7 @@
 <div align="center"><h3>👋 Hallo Selamat Datang Di Github Saya 👋</h3></div>
 <hr />
 <div align="center">
-  Perkenalkan Nama Saya Arvino<br />Saya Adalah Fullstack Developer<br />Saya Lulusan S1 Dari Universitas Dinamika
-  Bangsa Jambi
+  Perkenalkan Nama Saya Arvino<br />Saya Adalah Fullstack Developer
 </div>
 <hr />
 <h3 align="left">Social Media:</h3>
