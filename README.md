@@ -101,7 +101,16 @@
     
 </p>
 
-<h3>My Project:</h3>
+<h3>Pengalaman Kerja</h3>
+<div>
+    <ol>
+    <li>PT Perkebunan Nusantara VI (Magang | 03/2021-09-2021)</li>
+    <li>PT Perkebunan Nusantara VI (Kontrak | 10/2021-04-2021)</li>
+    <li>PT Sabilamall Niaga Digital (04/2021-Sekarang)</li>
+    </ol>
+</div>
+
+<h3>Project Saya:</h3>
 <div><h4>Solo Project</h4></div>
 <div>
     <ol>
