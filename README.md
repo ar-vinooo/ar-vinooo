@@ -105,7 +105,7 @@
 <div>
     <ol>
     <li>Website e-Learning SMK Negeri 2 Kota Jambi</li>
-    <li>FerryJam Ku</li>
+    <li>Android FerryJam Ku</li>
     <li>Android e-Learning SMK Negeri 2 Kota Jambi</li>
     <li>Klinik Pratama</li>
     <li>Petshop</li>
