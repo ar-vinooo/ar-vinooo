@@ -100,7 +100,7 @@
     
 </p>
 
-<h3>Pengalaman Kerja</h3>
+<h3>Pengalaman Kerja:</h3>
 <div>
     <ol>
     <li>PT Perkebunan Nusantara VI (Magang | 03/2021-09-2021)</li>
