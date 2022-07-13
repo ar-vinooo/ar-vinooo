@@ -119,7 +119,8 @@
     <li>Klinik Pratama</li>
     <li>Petshop</li>
     <li>Noleh Jambi</li>
-    <li>e-Doremi PT Perkebunan Nusantara VI</li>
+    <li>Website e-Doremi PT Perkebunan Nusantara VI</li>
+    <li>Android e-Doremi PT Perkebunan Nusantara VI</li>
     <li>e-Planters PT Perkebunan Nusantara VI</li>
     <li>e-Contract PT Perkebunan Nusantara VI</li>
     <li>WA Blaster PT Perkebunan Nusantara VI</li>
