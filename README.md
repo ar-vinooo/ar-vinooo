@@ -128,7 +128,8 @@
     <li>e-Kernel PT Perkebunan Nusantara VI</li>
     <li>Android ASISTAN (Presensi Geofence) PT Perkebunan Nusantara VI</li>
     <li>e-Comprice PT Perkebunan Nusantara VI</li>
-    <li>e-Retail PT Perkebunan Nusantara VI</li>
+    <li>Website e-Retail PT Perkebunan Nusantara VI</li>
+    <li>Android e-Retail PT Perkebunan Nusantara VI</li>
     <li>Apotek Lidya</li>
     <li>Tina Wedding Organizer</li>
     <li>PPDB SMK YKPP</li>
