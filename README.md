@@ -130,6 +130,8 @@
     <li>e-Comprice PT Perkebunan Nusantara VI</li>
     <li>Website e-Retail PT Perkebunan Nusantara VI</li>
     <li>Android e-Retail PT Perkebunan Nusantara VI</li>
+    <li>Aplikasi Monitoring Display PT Perkebunan Nusantara VI</li>
+    <li>P2BJ PT Perkebunan Nusantara VI</li>
     <li>Apotek Lidya</li>
     <li>Tina Wedding Organizer</li>
     <li>PPDB SMK YKPP</li>
